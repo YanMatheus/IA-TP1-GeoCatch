@@ -12,7 +12,7 @@ Foi desenvolvido em java com o auxilio da biblioteca jpl.jar
 ![css](https://github.com/YanMatheus/Tetris-Souls/blob/master/tetris/002-javascript.png "js")
 
 #### Temas abordados ####
-    ######## Capitais ########
+  > -  Capitais 
     ######## Unidade Federativas ########
     ######## Fronteiras Internacionais ########
     ######## Pontos Extremos ########
