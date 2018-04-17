@@ -13,7 +13,7 @@ O desafio era criar um programa que fosse educativo e utilizasse base de dados e
 Foi desenvolvido em java com o auxilio da biblioteca **`jpl.jar`**
 <br />
 
-Qualquer coisa tem a (documentação)[https://github.com/YanMatheus/IA-TP1-GeoCatch/blob/master/GeoCatch/Documentação.pdf]
+Qualquer coisa tem a documentação ([https://github.com/YanMatheus/IA-TP1-GeoCatch/blob/master/GeoCatch/Documentação.pdf])
 
 ### Tópicos abordados ###
   > -  Capitais 
