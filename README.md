@@ -1,7 +1,7 @@
 # GeoCatch - Trabalho 1 da disciplina de Inteligência Artificial de 2017 #
 
 ![asd](https://github.com/YanMatheus/IA-TP1-GeoCatch/blob/master/GeoCatch/java.png "cass") 
-![css](https://github.com/YanMatheus/IA-TP1-GeoCatch/blob/master/GeoCatch/prolog.png "css")                                              
+![css](https://github.com/YanMatheus/IA-TP1-GeoCatch/blob/master/GeoCatch/prolog.png "css")                                              ![preview](https://github.com/YanMatheus/IA-TP1-GeoCatch/blob/master/GeoCatch/banner.PNG  "css")
 ## Descrição ##
 O programa foi pensando a partir da premissa de ensino básico de geografia do
 Brasil, podendo então ensinar tópicos do assunto de forma interativa e
@@ -10,7 +10,9 @@ teste.
 
 O desafio era criar um programa que fosse educativo e utilizasse base de dados e lógica a partir do Prolog.
 Foi desenvolvido em java com o auxilio da biblioteca **`jpl.jar`**
-                               
+
+**`Pra saber tudo direitinho tem a documentação aí em PDF`**
+
 ### Tópicos abordados ###
   > -  Capitais 
   > - Unidade Federativas 
@@ -31,7 +33,7 @@ fins didáticos será chamado aqui de **`novotopico.pl.`**
 
 2. Para uso desse novo arquivo é necessário inseri-lo como TreeMap<String, String> na classe Functions
 
-```java8
+```java
  public class Functions {
   ArrayList<String> functionsname = new ArrayList<String>();
   TreeMap<String,String> DBCapital;
@@ -54,13 +56,14 @@ fins didáticos será chamado aqui de **`novotopico.pl.`**
 #### Utilização de novos tópicos  ####
 
 ```java
- this.DBNovoTopico = new TreeMap<>();
- functionsname.add("novotopico");
+ ObjetoFuncions.getDBNovoTopico().get(key);
 ```
 
-#### Mapas ####
+#### Ex Mapas ####
 ![preview](https://github.com/YanMatheus/IA-TP1-GeoCatch/blob/master/GeoCatch/mapageocatchdemo.gif  "css")
-#### Quiz ####
+#### Ex Quiz ####
 ![preview](https://github.com/YanMatheus/IA-TP1-GeoCatch/blob/master/GeoCatch/geocatchquizdemo.gif  "css")
-#### Demo ####
+#### Ranks do Quiz ####
+![preview](https://github.com/YanMatheus/IA-TP1-GeoCatch/blob/master/GeoCatch/ribbons.PNG  "css")
+#### Demo geral ####
 ![preview](https://github.com/YanMatheus/IA-TP1-GeoCatch/blob/master/GeoCatch/demogeocatch1.gif  "css")
