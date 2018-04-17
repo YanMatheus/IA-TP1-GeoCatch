@@ -9,9 +9,7 @@ O desafio era criar um programa que fosse educativo e utilizasse base de dados e
 Foi desenvolvido em java com o auxilio da biblioteca jpl.jar
 
 ![asd](https://github.com/YanMatheus/IA-TP1-GeoCatch/blob/master/GeoCatch/java.png "cass") 
-![css](https://github.com/YanMatheus/IA-TP1-GeoCatch/tree/master/GeoCatch/prolog.png "css") 
-
-![preview](https://github.com/YanMatheus/Tetris-Souls/blob/master/tetris/proxima-peca.PNG "css")                                                                                
+![css](https://github.com/YanMatheus/IA-TP1-GeoCatch/blob/master/GeoCatch/prolog.png "css")                                                                             
 #### Temas abordados ####
   > -  Capitais 
   > - Unidade Federativas 
@@ -24,18 +22,30 @@ Foi desenvolvido em java com o auxilio da biblioteca jpl.jar
   > - Curiosidades sobre estados
   
   
-#### Mapas ####
+#### Funções ####
 É uma tabelinha que mostra qual será a próxima peça a cair
-```html
+```java
  <div id="proxima-peca"></div>
 ```
 
-![preview](https://github.com/YanMatheus/Tetris-Souls/blob/master/tetris/proxima-peca.PNG "css")
+![preview](https://github.com/YanMatheus/IA-TP1-GeoCatch/blob/master/GeoCatch/mapageocatchdemo.gif "css")
 
 #### Quiz ####
 É a tabela onde o jogo é jogado, onde as peças caem, onde tem bug.
 ```html
- <div id="tabuleiro"></div>
+ public class Functions {
+  ArrayList<String> functionsname = new ArrayList<String>();
+  TreeMap<String,String> DBCapital;
+  TreeMap<String,String> DBFu ;
+  TreeMap<String,String> DBPopulation ;
+  TreeMap<String,String> DBCountryBorder ;
+  TreeMap<String,String> DBFrontier ;
+  TreeMap<String,String> DBRegion ;
+  TreeMap<String,String> DBArea ;
+  TreeMap<String,String> DBCoastalState ;
+  TreeMap<String,String> DBCuriosity ;
+  TreeMap<String,String> DBNovoTopico ;
+ }
 ```
 
 ![preview](https://github.com/YanMatheus/Tetris-Souls/blob/master/tetris/tabuleiro.PNG "css")
