@@ -8,11 +8,10 @@ teste.
 O desafio era criar um programa que fosse educativo e utilizasse base de dados e lógica a partir do Prolog.
 Foi desenvolvido em java com o auxilio da biblioteca jpl.jar
 
-![asd](https://github.com/YanMatheus/IA-TP1-GeoCatch/tree/master/GeoCatch/java.png "cass") 
+![asd](https://github.com/YanMatheus/IA-TP1-GeoCatch/blob/master/GeoCatch/java.png "cass") 
 ![css](https://github.com/YanMatheus/IA-TP1-GeoCatch/tree/master/GeoCatch/prolog.png "css") 
 
-<img alt="java" src="https://github.com/YanMatheus/IA-TP1-GeoCatch/tree/master/GeoCatch/java.png" align="middle" width"32">
-                  <img alt="diagrama RIR" src="docs/diagrams/diagrama-integridade-referencial.png" align="middle" width="780">                                                                                                
+![preview](https://github.com/YanMatheus/Tetris-Souls/blob/master/tetris/proxima-peca.PNG "css")                                                                                
 #### Temas abordados ####
   > -  Capitais 
   > - Unidade Federativas 
