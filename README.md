@@ -25,9 +25,11 @@ Foi desenvolvido em java com o auxilio da biblioteca **`jpl.jar`**
   
 #### Criação de novos tópicos  ####
 
-A criação de um novo tópico de aprendizado deve ser inicialmente feita
+1. A criação de um novo tópico de aprendizado deve ser inicialmente feita
 através da criação dos dados em um arquivo **`.pl`**, construindo sua lógica, para
 fins didáticos será chamado aqui de **`novotopico.pl.`**
+
+2. Para uso desse novo arquivo é necessário inseri-lo como TreeMap<String, String> na classe Functions
 
 ```java
  public class Functions {
@@ -44,7 +46,11 @@ fins didáticos será chamado aqui de **`novotopico.pl.`**
   TreeMap<String,String> DBNovoTopico ;
  }
 ```
-
+3. Há a necessidade de instanciá-lo no método construtor da classe e depois criar um método para obtê-lo
+```java
+ this.DBNovoTopico = new TreeMap<>();
+ functionsname.add("novotopico");
+```
 
 #### Mapas ####
 ![preview](https://github.com/YanMatheus/IA-TP1-GeoCatch/blob/master/GeoCatch/mapageocatchdemo.gif  "css")
