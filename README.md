@@ -8,7 +8,7 @@ teste.
 O desafio era criar um programa que fosse educativo e utilizasse base de dados e lógica a partir do Prolog.
 Foi desenvolvido em java com o auxilio da biblioteca jpl.jar
 
-![css](https://github.com/YanMatheus/IA-TP1-GeoCatch/tree/master/GeoCatch/java.png "css") 
+![asd](https://github.com/YanMatheus/IA-TP1-GeoCatch/tree/master/GeoCatch/java.png "cass") 
 ![css](https://github.com/YanMatheus/IA-TP1-GeoCatch/tree/master/GeoCatch/prolog.png "css") 
 
 #### Temas abordados ####
