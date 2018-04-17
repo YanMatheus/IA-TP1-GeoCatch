@@ -11,7 +11,7 @@ teste.
 O desafio era criar um programa que fosse educativo e utilizasse base de dados e lógica a partir do Prolog.
 Foi desenvolvido em java com o auxilio da biblioteca jpl.jar
                                
-#### Temas abordados ####
+### Tópicos abordados ###
   > -  Capitais 
   > - Unidade Federativas 
   > - Fronteiras Internacionais
@@ -23,13 +23,7 @@ Foi desenvolvido em java com o auxilio da biblioteca jpl.jar
   > - Curiosidades sobre estados
   
   
-#### Funções ####
-É uma tabelinha que mostra qual será a próxima peça a cair
-
-![preview](https://github.com/YanMatheus/IA-TP1-GeoCatch/blob/master/GeoCatch/mapageocatchdemo.gif width="400" "css")
-
-#### Quiz ####
-É a tabela onde o jogo é jogado, onde as peças caem, onde tem bug.
+#### Criação de novos tópicos  ####
 ```java
  public class Functions {
   ArrayList<String> functionsname = new ArrayList<String>();
@@ -46,6 +40,15 @@ Foi desenvolvido em java com o auxilio da biblioteca jpl.jar
  }
 ```
 
+
+#### Mapas ####
+![preview](https://github.com/YanMatheus/IA-TP1-GeoCatch/blob/master/GeoCatch/mapageocatchdemo.gif  "css")
+#### Quiz ####
+![preview](https://github.com/YanMatheus/IA-TP1-GeoCatch/blob/master/GeoCatch/geocatchquizdemo.gif  "css")
+#### Demo ####
+![preview](https://github.com/YanMatheus/IA-TP1-GeoCatch/blob/master/GeoCatch/demogeocatch1.gif  "css")
+
+
 ![preview](https://github.com/YanMatheus/Tetris-Souls/blob/master/tetris/tabuleiro.PNG "css")
 
 ####  Informações ####
@@ -53,6 +56,7 @@ Foi desenvolvido em java com o auxilio da biblioteca jpl.jar
 ```html
  <div id="informacoes"></div>
 ```
+
 
 ![preview](https://github.com/YanMatheus/Tetris-Souls/blob/master/tetris/informacoes.PNG "css")
 
