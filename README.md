@@ -31,7 +31,7 @@ fins didáticos será chamado aqui de **`novotopico.pl.`**
 
 2. Para uso desse novo arquivo é necessário inseri-lo como TreeMap<String, String> na classe Functions
 
-```java
+```java8
  public class Functions {
   ArrayList<String> functionsname = new ArrayList<String>();
   TreeMap<String,String> DBCapital;
@@ -47,6 +47,12 @@ fins didáticos será chamado aqui de **`novotopico.pl.`**
  }
 ```
 3. Há a necessidade de instanciá-lo no método construtor da classe e depois criar um método para obtê-lo
+```java
+ this.DBNovoTopico = new TreeMap<>();
+ functionsname.add("novotopico");
+```
+#### Utilização de novos tópicos  ####
+
 ```java
  this.DBNovoTopico = new TreeMap<>();
  functionsname.add("novotopico");
