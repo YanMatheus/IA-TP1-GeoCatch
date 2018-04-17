@@ -25,15 +25,12 @@ Foi desenvolvido em java com o auxilio da biblioteca jpl.jar
   
 #### Funções ####
 É uma tabelinha que mostra qual será a próxima peça a cair
-```java
- <div id="proxima-peca"></div>
-```
 
-![preview](https://github.com/YanMatheus/IA-TP1-GeoCatch/blob/master/GeoCatch/mapageocatchdemo.gif "css")
+![preview](https://github.com/YanMatheus/IA-TP1-GeoCatch/blob/master/GeoCatch/mapageocatchdemo.gif width="400" "css")
 
 #### Quiz ####
 É a tabela onde o jogo é jogado, onde as peças caem, onde tem bug.
-```html
+```java
  public class Functions {
   ArrayList<String> functionsname = new ArrayList<String>();
   TreeMap<String,String> DBCapital;
