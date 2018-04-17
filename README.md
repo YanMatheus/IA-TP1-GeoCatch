@@ -11,7 +11,7 @@ Foi desenvolvido em java com o auxilio da biblioteca jpl.jar
 ![asd](https://github.com/YanMatheus/IA-TP1-GeoCatch/tree/master/GeoCatch/java.png "cass") 
 ![css](https://github.com/YanMatheus/IA-TP1-GeoCatch/tree/master/GeoCatch/prolog.png "css") 
 
-<img alt="javaR" src="https://github.com/YanMatheus/IA-TP1-GeoCatch/tree/master/GeoCatch/java.png" align="middle">
+<img alt="java" src="https://github.com/YanMatheus/IA-TP1-GeoCatch/tree/master/GeoCatch/java.png" align="middle" width"32">
                                                                                                                   
 #### Temas abordados ####
   > -  Capitais 
