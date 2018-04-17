@@ -13,14 +13,16 @@ Foi desenvolvido em java com o auxilio da biblioteca jpl.jar
 
 #### Temas abordados ####
   > -  Capitais 
-    ######## Unidade Federativas ########
-    ######## Fronteiras Internacionais ########
-    ######## Pontos Extremos ########
-    ######## Estado Litorâneos ########
-    ######## Espaço Territorial ########
-    ######## População ########
-    ######## Regiões ########
-    ######## Curiosidades sobre estados ########
+  > - Unidade Federativas 
+  > - Fronteiras Internacionais
+  > - Pontos Extremos
+  > - Espaço Territorial
+  > - Estado Litorâneos
+  > - População
+  > - Regiões
+  > - Curiosidades sobre estados
+  
+  
 #### Mapas ####
 É uma tabelinha que mostra qual será a próxima peça a cair
 ```html
