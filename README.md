@@ -1,5 +1,6 @@
 # GeoCatch - Trabalho 1 da disciplina de Inteligência Artificial de 2017 #
-
+![preview](https://github.com/YanMatheus/IA-TP1-GeoCatch/blob/master/GeoCatch/banner.PNG  "css")
+\n
 ![asd](https://github.com/YanMatheus/IA-TP1-GeoCatch/blob/master/GeoCatch/java.png "cass") 
 ![css](https://github.com/YanMatheus/IA-TP1-GeoCatch/blob/master/GeoCatch/prolog.png "css")                                              
 ## Descrição ##
@@ -10,7 +11,7 @@ teste.
 
 O desafio era criar um programa que fosse educativo e utilizasse base de dados e lógica a partir do Prolog.
 Foi desenvolvido em java com o auxilio da biblioteca **`jpl.jar`**
-![preview](https://github.com/YanMatheus/IA-TP1-GeoCatch/blob/master/GeoCatch/banner.PNG  "css")
+\n
 **`Pra saber tudo direitinho tem a documentação aí em PDF`**
 
 ### Tópicos abordados ###
